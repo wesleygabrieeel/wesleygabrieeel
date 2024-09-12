@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🖤
 
-<!--
-**wesleygabrieeel/wesleygabrieeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Wesley Gabriel
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
+-Estou me desenvolvendo na liguagem Javascript
+-Utilizo esse espaço pra minha organização e compartilhamento dos meus desenvolvimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce etrar em contato comigo 📫
+
+wesley.santos.carneiro@escola.pr.gov.br
+
+
+![](https://media1.tenor.com/m/cOhgxKZrGqQAAAAC/zoro-one-piece.gif)
